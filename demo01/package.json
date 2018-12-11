@@ -1,0 +1,10 @@
+{
+  "name": "webpack-demo1",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "dev": "npx webpack-dev-server --open",
+    "build": "npx webpack -p"
+  },
+  "license": "MIT"
+}
